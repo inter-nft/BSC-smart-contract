@@ -24,6 +24,17 @@ node generate-tokenhub.js --mock true
 node generate-tendermintlightclient.js --mock true
 node generate-relayerincentivizecontract.js --roundSize 30 --maximumWeight 3 --mock true
 ```
+error; generating generator;contract error;requiring cost,--mock false
+constructor() public {
+_name = " MFT Token " ;
+_symbol = "MFT";
+_decimals = 18;
+_total supply =100; // token 
+_balances[msg.sender] =total supply; 5 token 
+
+error; transmitting error available balances error. --mock false
+ }contract fund,; 0.00 bnb token } contract fund required; 0,45 bnb token
+ 
 
 Start ganache:
 ```shell script
